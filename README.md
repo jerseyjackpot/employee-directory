@@ -18,14 +18,13 @@ The user should be able to:
 
   * Filter the users by at least one property.
 
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
+## Screenshots and Links
+
+[Link To Page](https://jerseyjackpot.github.io/employee-directory/index.html)
+
+![Screen Shot 2020-10-24 at 2 42 23 PM](https://user-images.githubusercontent.com/64985702/97091102-40a3f080-1607-11eb-9bbd-995b7780e961.png)
+
+![Screen Shot 2020-10-24 at 2 42 11 PM](https://user-images.githubusercontent.com/64985702/97091110-4a2d5880-1607-11eb-9d82-676fea7095ec.png)
 
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
-
+![Screen Shot 2020-10-24 at 2 41 54 PM](https://user-images.githubusercontent.com/64985702/97091113-531e2a00-1607-11eb-8bbd-da5ebe871057.png)
